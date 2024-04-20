@@ -3,6 +3,8 @@ ML solution to AML detection problem
 
 # Transaction information kept:
 UNIX Timestamp
+Day of the week
+Minute of the day
 
 From Bank
 UID (Bank|Account)
