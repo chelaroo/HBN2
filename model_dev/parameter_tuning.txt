@@ -1,0 +1,191 @@
+==================================================
+Hyperparameters:
+{'learning_rate': 0.03147866035091887, 'max_depth': 7, 'n_estimators': 500, 'random_state': (12,), 'verbose': (-1,)}
+Train Metrics:
+AUC Train: 0.9529566348608202
+F1 Score Train: 0.17748731619227792
+Precision Train: 0.7293286219081272
+Recall Train: 0.10103779126688858
+Validation Metrics:
+AUC Validation: 0.9333767976356803
+F1 Score Validation: 0.17181663837011887
+Precision Validation: 0.6293532338308457
+Recall Validation: 0.09948879276445144
+==================================================
+Hyperparameters:
+{'learning_rate': 0.014876491052948124, 'max_depth': 5, 'n_estimators': 300, 'random_state': (12,), 'verbose': (-1,)}
+Train Metrics:
+AUC Train: 0.9522685508081148
+F1 Score Train: 0.1654187706773463
+Precision Train: 0.7468553459119497
+Recall Train: 0.09300959467397689
+Validation Metrics:
+AUC Validation: 0.9482375696470159
+F1 Score Validation: 0.20020290835306054
+Precision Validation: 0.714975845410628
+Recall Validation: 0.1163979551710578
+==================================================
+Hyperparameters:
+{'learning_rate': 0.0337953439505077, 'max_depth': 3, 'n_estimators': 700, 'random_state': (12,), 'verbose': (-1,)}
+Train Metrics:
+AUC Train: 0.932327169801129
+F1 Score Train: 0.14260438782731774
+Precision Train: 0.7394495412844037
+Recall Train: 0.07891129821813198
+Validation Metrics:
+AUC Validation: 0.9180591042088964
+F1 Score Validation: 0.16270949720670388
+Precision Validation: 0.7258566978193146
+Recall Validation: 0.09162406606370428
+==================================================
+Hyperparameters:
+{'learning_rate': 0.053100431340663404, 'max_depth': 3, 'n_estimators': 300, 'random_state': (12,), 'verbose': (-1,)}
+Train Metrics:
+AUC Train: 0.9221569804435881
+F1 Score Train: 0.11635975447024287
+Precision Train: 0.6368062317429406
+Recall Train: 0.06402976307029568
+Validation Metrics:
+AUC Validation: 0.9132532232239126
+F1 Score Validation: 0.13754775963876345
+Precision Validation: 0.5892857142857143
+Recall Validation: 0.07786079433739677
+==================================================
+Hyperparameters:
+{'learning_rate': 0.08203836205374317, 'max_depth': 5, 'n_estimators': 700, 'random_state': (12,), 'verbose': (-1,)}
+Train Metrics:
+AUC Train: 0.9076443904643907
+F1 Score Train: 0.14278242677824265
+Precision Train: 0.651033386327504
+Recall Train: 0.08018406109261797
+Validation Metrics:
+AUC Validation: 0.8812306983153526
+F1 Score Validation: 0.1534788540245566
+Precision Validation: 0.5784061696658098
+Recall Validation: 0.08847817538340542
+==================================================
+Hyperparameters:
+{'learning_rate': 0.04317105727024017, 'max_depth': 5, 'n_estimators': 500, 'random_state': (12,), 'verbose': (-1,)}
+Train Metrics:
+AUC Train: 0.9317974782990109
+F1 Score Train: 0.14875888079992983
+Precision Train: 0.7144060657118787
+Recall Train: 0.08302330135108674
+Validation Metrics:
+AUC Validation: 0.9051147566444567
+F1 Score Validation: 0.15364150315929498
+Precision Validation: 0.4978448275862069
+Recall Validation: 0.09083759339362957
+==================================================
+Hyperparameters:
+{'learning_rate': 0.045241301818912276, 'max_depth': 5, 'n_estimators': 700, 'random_state': (12,), 'verbose': (-1,)}
+Train Metrics:
+AUC Train: 0.9611882829087964
+F1 Score Train: 0.1928721174004193
+Precision Train: 0.8946515397082658
+Recall Train: 0.10808693949481105
+Validation Metrics:
+AUC Validation: 0.948041278960391
+F1 Score Validation: 0.19898819561551434
+Precision Validation: 0.6990521327014217
+Recall Validation: 0.11600471883602045
+==================================================
+Hyperparameters:
+{'learning_rate': 0.05785690993532197, 'max_depth': 5, 'n_estimators': 700, 'random_state': (12,), 'verbose': (-1,)}
+Train Metrics:
+AUC Train: 0.9212558605413828
+F1 Score Train: 0.1454450444173489
+Precision Train: 0.6585173501577287
+Recall Train: 0.08175053847660074
+Validation Metrics:
+AUC Validation: 0.8952373480273506
+F1 Score Validation: 0.15929800877489034
+Precision Validation: 0.5619047619047619
+Recall Validation: 0.09280377506881636
+==================================================
+Hyperparameters:
+{'learning_rate': 0.0394952371199434, 'max_depth': 3, 'n_estimators': 700, 'random_state': (12,), 'verbose': (-1,)}
+Train Metrics:
+AUC Train: 0.9200893732187331
+F1 Score Train: 0.1202752211598606
+Precision Train: 0.6888433981576254
+Recall Train: 0.06588995496377521
+Validation Metrics:
+AUC Validation: 0.907716749714186
+F1 Score Validation: 0.13505948215535338
+Precision Validation: 0.6126984126984127
+Recall Validation: 0.07589461266220998
+==================================================
+Hyperparameters:
+{'learning_rate': 0.01, 'max_depth': 5, 'min_data_in_leaf': 106, 'n_estimators': 500, 'num_leaves': 24, 'random_state': 12, 'verbose': -1}
+Train Metrics:
+AUC Train: 0.9539350163440022
+F1 Score Train: 0.15888342696629215
+Precision Train: 0.7682512733446519
+Recall Train: 0.08860387703152536
+Validation Metrics:
+AUC Validation: 0.9522452464821439
+F1 Score Validation: 0.20259208731241474
+Precision Validation: 0.7634961439588689
+Recall Validation: 0.11679119150609517
+==================================================
+Hyperparameters:
+{'learning_rate': 0.01, 'max_depth': 5, 'min_data_in_leaf': 120, 'n_estimators': 500, 'num_leaves': 28, 'random_state': 12, 'verbose': -1}
+Train Metrics:
+AUC Train: 0.9543468537338338
+F1 Score Train: 0.15812565812565813
+Precision Train: 0.7622673434856176
+Recall Train: 0.08821225768552966
+Validation Metrics:
+AUC Validation: 0.9522951425868829
+F1 Score Validation: 0.2010906612133606
+Precision Validation: 0.7544757033248082
+Recall Validation: 0.11600471883602045
+==================================================
+Hyperparameters:
+{'learning_rate': 0.01, 'max_depth': 5, 'min_data_in_leaf': 103, 'n_estimators': 500, 'num_leaves': 26, 'random_state': 12, 'verbose': -1}
+Train Metrics:
+AUC Train: 0.9542250602646248
+F1 Score Train: 0.1602597858522029
+Precision Train: 0.773728813559322
+Recall Train: 0.08938711572351674
+Validation Metrics:
+AUC Validation: 0.9522827850615146
+F1 Score Validation: 0.20388680531878625
+Precision Validation: 0.7666666666666667
+Recall Validation: 0.11757766417616988
+==================================================
+Hyperparameters:
+{'learning_rate': 0.01, 'max_depth': 5, 'min_data_in_leaf': 130, 'n_estimators': 500, 'num_leaves': 27, 'random_state': 12, 'verbose': -1}
+Train Metrics:
+AUC Train: 0.954345088115059
+F1 Score Train: 0.1577054644329445
+Precision Train: 0.7573715248525695
+Recall Train: 0.08801644801253182
+Validation Metrics:
+AUC Validation: 0.9522585415218925
+F1 Score Validation: 0.2016348773841962
+Precision Validation: 0.7531806615776081
+Recall Validation: 0.1163979551710578
+==================================================
+Hyperparameters:
+{'learning_rate': 0.01, 'max_depth': 5, 'min_data_in_leaf': 101, 'n_estimators': 500, 'num_leaves': 25, 'random_state': 12, 'verbose': -1}
+Train Metrics:
+AUC Train: 0.9539998148373393
+F1 Score Train: 0.159003159003159
+Precision Train: 0.766497461928934
+Recall Train: 0.08870178186802428
+Validation Metrics:
+AUC Validation: 0.9522179857434921
+F1 Score Validation: 0.20259208731241474
+Precision Validation: 0.7634961439588689
+Recall Validation: 0.11679119150609517
+==================================================
+Best Hyperparameters:
+{'learning_rate': 0.01, 'max_depth': 5, 'min_data_in_leaf': 120, 'n_estimators': 500, 'num_leaves': 28, 'random_state': 12, 'verbose': -1}
+==================================================
+Test Metrics:
+AUC Test: 0.9500795393094074
+F1 Score Test: 0.18230277185501062
+Precision Test: 0.7307692307692307
+Recall Test: 0.10414129110840438
